@@ -1,12 +1,3 @@
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">Full-time Research Professor at University of Guadalajara</h3>
 
