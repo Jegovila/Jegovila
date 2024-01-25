@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jegovila&label=Profile%20views&color=0e75b6&style=flat" alt="jegovila" /> </p>
 
-- 📫 How to reach me **https://linktr.ee/Jegovila**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 📫 Connect with me:</h3>
+**https://linktr.ee/Jegovila**
 <p align="left">
 </p>
 
