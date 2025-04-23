@@ -8,6 +8,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jegovila&show_icons=true&theme=dark&locale=en&layout=compact" alt="jegovila" /></p>
 
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jegovila" alt="GitHub Streak" /></a>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jegovila&theme=dark" alt="jegovila" /></p>
 
 <h3 align="left"> 📫 https://linktr.ee/Jegovila </h3> 
